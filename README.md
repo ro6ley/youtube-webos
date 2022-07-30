@@ -119,3 +119,18 @@ To jump immediately into some specific video use:
 ```sh
 npm run launch -- -p '{"contentTarget":"v=F8PGWLvn1mQ"}'
 ```
+
+## VS Code Extension Config
+
+- Chrome executable: `/Applications/Google Chrome.app`
+- Get SSH key from TV
+
+## Resources
+
+Links:
+* [Using Developer Mode App](https://webostv.developer.lge.com/develop/app-test/using-devmode-app/#installDevModeApp)
+* [webOS TV VS Code extension](https://marketplace.visualstudio.com/items?itemName=webostvsdk.webostv)
+* [webOS TV SDK](https://webostv.developer.lge.com/sdk/webos-tv-sdk/introduction/)
+* [Configuring webOS TV Extension](https://webostv.developer.lge.com/sdk/vs-code-extension/Guide/configuring-tv-extension/)
+* [Using webOS TV Extension](https://webostv.developer.lge.com/sdk/vs-code-extension/Guide/using-tv-extension/)
+* [webOS TV APIs](https://www.webosose.org/docs/reference/)
