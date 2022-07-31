@@ -134,3 +134,4 @@ Links:
 * [Configuring webOS TV Extension](https://webostv.developer.lge.com/sdk/vs-code-extension/Guide/configuring-tv-extension/)
 * [Using webOS TV Extension](https://webostv.developer.lge.com/sdk/vs-code-extension/Guide/using-tv-extension/)
 * [webOS TV APIs](https://www.webosose.org/docs/reference/)
+* [Youtube adfree on a LG TV](https://www.reddit.com/r/Adblock/comments/n5mqgf/youtube_adfree_on_a_lg_tv/)
